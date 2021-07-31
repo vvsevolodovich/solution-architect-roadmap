@@ -1,0 +1,70 @@
+@startmindmap
+* Architect
+
+right side 
+
+** Hard skills
+***_ System design patterns and tactics
+****_ Avaiability
+****_ Performance
+****_ Scalability
+****_ Security
+***_ Cloud technologies
+****_ Storage
+*****_ Relational Databases
+*****_ DBaaS
+*****_ S3 like storage
+****_ Compute
+*****_ VMs
+*****_ Containers
+*****_ Functions
+****_ Network
+****_ Elasticity
+***_ Data storage
+***_ Data streaming
+***_ Monitoring
+***_ Big Data & Data Engineering
+***_ Machine Learning
+***_ Web Technologies
+****_ React
+****_ Angular
+****_ Vue.js
+***_ Mobile Technologies
+****_ Native Android
+****_ Native iOS
+****_ Hybrid apps
+****_ React-Native
+****_ Flutter
+
+left side 
+
+** Roles and responsibilities
+***_ Scrum Master
+****_ Delivery Management
+****_ Communication plans
+****_ Project schedule
+***_ Business analytics
+****_ Functional Requirements
+****_ Quality Attributes
+****_ Constraints
+***_ Technical Writer
+****_ Architecture Documents
+*****_ Solution Architecture Document
+*****_ Architecture Review
+*****_ Archictecture Decision Log
+****_ Architecture Diagrams
+*****_ Views и View Points
+*****_ C4
+*****_ Use Cases
+*****_ Sequence
+***_ Developer
+****_ Proof of Concepts
+****_ Tools
+****_ Unurgent business features
+***_ Consultancy
+****_ Solution comparison
+****_ Estimations
+****_ Strategy advisory
+
+
+@endmindmap
