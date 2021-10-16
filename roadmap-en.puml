@@ -4,12 +4,17 @@
 right side 
 
 ** Hard skills
-***_ System design patterns and tactics
+***_ [[https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734 System design patterns and tactics]]
 ****_ Avaiability
+****_ Maintainability
 ****_ Performance
 ****_ Scalability
 ****_ Security
 ***_ Cloud technologies
+****_ Providers
+*****_ [[https://cloud.google.com/gcp Google Cloud Platform]]
+*****_ [[https://azure.microsoft.com/en-us/ Azure]]
+*****_ [[https://aws.amazon.com/ Amazon Web Services]] 
 ****_ Storage
 *****_ Relational Databases
 *****_ DBaaS
