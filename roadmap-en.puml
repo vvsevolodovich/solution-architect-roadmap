@@ -16,7 +16,6 @@ right side
 *****_ [[https://azure.microsoft.com/en-us/ Azure]]
 *****_ [[https://aws.amazon.com/ Amazon Web Services]] 
 ****_ Storage
-*****_ Relational Databases
 *****_ DBaaS
 *****_ S3 like storage
 ****_ Compute
@@ -26,6 +25,9 @@ right side
 ****_ Network
 ****_ Elasticity
 ***_ Data storage
+****_ Relational Databases
+****_ [[https://martinfowler.com/books/nosql.html NoSQL]]
+****_ Full text search engines
 ***_ Data streaming
 ***_ Monitoring
 ***_ Big Data & Data Engineering
@@ -55,9 +57,9 @@ left side
 ** Roles and responsibilities
 ***_ Scrum Master
 ****_ Delivery Management
+*****_ [[https://en.wikipedia.org/wiki/Theory_of_constraints Theory of constraints]]
 ****_ Communication plans
 ****_ Project schedule
-****_ [[https://en.wikipedia.org/wiki/Theory_of_constraints Theory of constraints]]
 ***_ Business analytics
 ****_ Functional Requirements
 ****_ Quality Attributes
@@ -67,8 +69,8 @@ left side
 *****_ Solution Architecture Document
 *****_ Architecture Review
 *****_ [[https://github.com/joelparkerhenderson/architecture-decision-record Archictecture Decision Log]]
-****_ Architecture Diagrams
-*****_ Views и View Points
+****_ [[https://vvsevolodovich.dev/5-diagrams-to-document-software-architecture/ Architecture Diagrams]]
+*****_ [[https://www.amazon.com/Documenting-Software-Architectures-Views-Beyond/dp/0321552687 Views и View Points]]
 *****_ C4
 *****_ Use Cases
 *****_ Sequence
@@ -78,7 +80,7 @@ left side
 ****_ Unurgent business features
 ***_ Consultancy
 ****_ Solution comparison
-****_ Estimations
+****_ [[https://vvsevolodovich.dev/how-to-estimate-software-projects-chapter-1/ Estimations]]
 ****_ Strategy advisory
 
 
