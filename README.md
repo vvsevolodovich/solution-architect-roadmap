@@ -1,6 +1,7 @@
 # solution-architect-roadmap
 
-Hi! Roadmap of a solution architect. An article about it will be published at [vvsevolodovich.dev](https://vvsevolodovich.dev). 
+Hi! A Roadmap of a solution architect. If you plan to become one, it should help with links, books, trainings and other materials.
+A short guide on the roadmap [is here](https://vvsevolodovich.dev/profession-solution-architect-roadmap/).
 
 Version in [English](https://github.com/vlivanov/solution-architect-roadmap/blob/main/roadmap-en.puml).
 
