@@ -1,7 +1,7 @@
 @startmindmap
 * Architect
 
-right side 
+right side
 
 ** Hard skills
 ***_ [[https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734 System design patterns and tactics]]
@@ -14,7 +14,7 @@ right side
 ****_ Providers
 *****_ [[https://cloud.google.com/gcp Google Cloud Platform]]
 *****_ [[https://azure.microsoft.com/en-us/ Azure]]
-*****_ [[https://aws.amazon.com/ Amazon Web Services]] 
+*****_ [[https://aws.amazon.com/ Amazon Web Services]]
 ****_ Storage
 *****_ DBaaS
 *****_ S3 like storage
@@ -52,11 +52,13 @@ right side
 ***_ Time management
 ***_ Business communication
 
-left side 
+left side
 
 ** Roles and responsibilities
-***_ Scrum Master
+***_ Project Manager
 ****_ Delivery Management
+*****_ Expectations management
+*****_ Quality Assurance
 *****_ [[https://en.wikipedia.org/wiki/Theory_of_constraints Theory of constraints]]
 ****_ Communication plans
 ****_ Project schedule
@@ -82,6 +84,5 @@ left side
 ****_ Solution comparison
 ****_ [[https://vvsevolodovich.dev/how-to-estimate-software-projects-chapter-1/ Estimations]]
 ****_ Strategy advisory
-
-
 @endmindmap
+
