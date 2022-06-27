@@ -10,6 +10,12 @@ right side
 ****_ Performance
 ****_ Scalability
 ****_ Security
+***_ Distributed systems
+****_ Replication schemes
+****_ Partitioning schemes
+****_ Consistency guarantees
+****_ Clock synchronization
+****_ Consensus
 ***_ Cloud technologies
 ****_ Providers
 *****_ [[https://cloud.google.com/gcp Google Cloud Platform]]
@@ -85,4 +91,3 @@ left side
 ****_ [[https://vvsevolodovich.dev/how-to-estimate-software-projects-chapter-1/ Estimations]]
 ****_ Strategy advisory
 @endmindmap
-
