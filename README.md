@@ -7,4 +7,6 @@ Version in [English](https://github.com/vlivanov/solution-architect-roadmap/blob
 
 ![roadmap](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/vvsevolodovich/solution-architect-roadmap/main/roadmap-en.puml)
 
+Liked the roadmap? You can support the author on [Patreon](https://www.patreon.com/vvsevolodovich)
+
 If you need help with growing into a Solution Architect or generally with system design, you can apply for [a consultation here](https://consult.vvsevolodovich.dev).
